@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Enter a Number
-[1 - 5]"
+[1 - 7]"
 
 #=============
 read number

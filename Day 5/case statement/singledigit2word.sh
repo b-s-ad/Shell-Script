@@ -34,6 +34,10 @@ case $number in
       9)
        echo "Nine"
 ;;
+
+      0)
+	echo "Zero"
+;;
 *)
 #===============================
 echo "Not a valid input"
